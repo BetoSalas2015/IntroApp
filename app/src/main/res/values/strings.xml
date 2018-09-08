@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intro a las Apps</string>
+    <string name="calculo">Cálculo de Salarios</string>
+    <string name="strTrabajadas">Horas trabajadas</string>
+    <string name="btnCalcular">Calcular Salario</string>
+    <string name="strSalario">Salario por hora</string>
+    <string name="txtMsg">* Hora extra = 1.5 Hora normal (> 40 horas)</string>
+    <string name="strResultado">Resultado</string>
+</resources>
